@@ -14,7 +14,7 @@
     </td>
     <td align="center" width="33%">
       <b>BACKEND</b><br/>
-      <img src="https://skillicons.dev/icons?i=spring,express,dotnet,nestjs" />
+      <img src="https://skillicons.dev/icons?i=spring,express,dotnet" />
     </td>
   </tr>
 </table>
